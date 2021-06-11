@@ -3,7 +3,7 @@
 ## Informações da API
 
 ```
-API criada para o sistema de estoque feito em VueJS
+API feita com Laravel criada para o sistema de estoque feito em VueJS
 Possuí autenticação via JWT.
 ```
 
