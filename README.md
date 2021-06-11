@@ -10,7 +10,7 @@ Possuí autenticação via JWT.
 ## Intalação
 
 ```
-compose install - Instalar dependencias do projeto
+composer install - Instalar dependencias do projeto
 copiar arquivo .env.example para .env
 php artisan migrate - executar as migrações.
 ```
